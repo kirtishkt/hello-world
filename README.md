@@ -1,2 +1,3 @@
 # hello-world
-learning GitHub
+Hello,
+I am Kirtish, trying to learn Github.
